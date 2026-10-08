@@ -19,11 +19,9 @@
 
 **AI 实践建造者，现居中国杭州，在 Ant Group 从事产品运营。**
 
-我探索 AI 如何成为非技术人的工作与生活方法：帮助人增强判断、推动执行，并把有效经验沉淀为可复用的工具与系统。
+我致力于探索 AI 如何成为非技术人的工作与生活方法：AI如何帮助人增强判断、推动执行，并把有效经验沉淀为可复用的工具与系统。
 
-工作之外，我养了一只猫和一只狗，喜欢游泳和桨板等运动，也喜欢养植物。也在持续创造能为生活带来微小而美好的便利小产品。
-
-### English
+工作之外，我养了一只猫和一只狗，喜欢游泳和桨板等运动，也喜欢养植物。同时也在持续创造能为生活带来微小而美好的便利小产品。
 
 I'm an **AI Practice Builder** based in Hangzhou, China, working in Product Operations at Ant Group.
 
@@ -31,7 +29,7 @@ I explore how AI can become a practical method for non-technical people—helpin
 
 Outside work, I live with a cat and a dog, enjoy swimming and paddleboarding, and love caring for plants. I also build small products that bring a little more ease and delight to everyday life.
 
-如果你对我的开源项目有任何疑问，欢迎交流沟通。  
+如果你对我的开源项目有任何疑问，欢迎交流沟通，希望和更多“骄傲工作家”成为好朋友
 Questions about my open-source projects are always welcome: [soyoungzsy@foxmail.com](mailto:soyoungzsy@foxmail.com).
 
 ## What I explore in AI
