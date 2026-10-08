@@ -23,7 +23,16 @@
 
 工作之外，我养了一只猫和一只狗，喜欢游泳和桨板等运动，也喜欢养植物。也在持续创造能为生活带来微小而美好的便利小产品。
 
-如果你对我的开源项目有任何疑问，欢迎交流沟通：[soyoungzsy@foxmail.com](mailto:soyoungzsy@foxmail.com)。
+### English
+
+I'm an **AI Practice Builder** based in Hangzhou, China, working in Product Operations at Ant Group.
+
+I explore how AI can become a practical method for non-technical people—helping us think more clearly, move work forward, and turn effective practices into reusable tools and systems.
+
+Outside work, I live with a cat and a dog, enjoy swimming and paddleboarding, and love caring for plants. I also build small products that bring a little more ease and delight to everyday life.
+
+如果你对我的开源项目有任何疑问，欢迎交流沟通。  
+Questions about my open-source projects are always welcome: [soyoungzsy@foxmail.com](mailto:soyoungzsy@foxmail.com).
 
 ## What I explore in AI
 
