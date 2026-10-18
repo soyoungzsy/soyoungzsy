@@ -35,8 +35,8 @@ Questions about the projects are welcome through their public repository Issues.
 ## What I explore in AI
 
 - **AI for non-technical work** — practical workflows for product operations, research, communication, and everyday decisions.
-- **Human–AI collaboration** — task routing, evidence boundaries, waiting states, and verifiable completion, reflected in [AI Co-brain Workflow](https://github.com/soyoungzsy/ai-cobrain-workflow).
-- **Knowledge that improves with use** — local-first systems that learn from decisions and feedback, reflected in [Self-enhancing Knowledge System](https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system).
+- **Human–AI collaboration** — deciding who takes the next step, when to revisit a task, and how to tell it is finished, reflected in [AI Co-brain Workflow](https://github.com/soyoungzsy/ai-cobrain-workflow).
+- **Knowledge that improves with use** — notes stored on your own device and improved with what you learn, reflected in [Self-enhancing Knowledge System](https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system).
 - **Small tools that change a real habit** — from immersive English reading with [SOYA LingoLens](https://github.com/soyoungzsy/soya-lingolens) to reflective decision-making with [SOYA Personal Board](https://github.com/soyoungzsy/soya).
 
 ## What I build
@@ -57,17 +57,17 @@ I call this the **SOYA AI LOOP**: a practical way to make AI part of the work it
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/ai-cobrain-workflow">AI Co-brain Workflow</a></h3>
-      <p>An installable skill for routing tasks across humans, AI, collaborators, waiting triggers, and verifiable completion.</p>
+      <p>A guide that helps you and AI decide what to do next, who should do it, and what counts as finished.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system">Self-enhancing Knowledge System</a></h3>
-      <p>A local-first system for evidence governance, AI collaboration, knowledge maintenance, and continuous learning.</p>
+      <p>A method for organizing notes, keeping their sources and using them to make your next decision.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/soya">SOYA Personal Board</a></h3>
-      <p>A private board of directors made of great minds—built for decisions, morning meetings, and long-term growth.</p>
+      <p>A way to ask AI to compare a personal choice from several perspectives and suggest next steps.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/soya-lingolens">SOYA LingoLens</a></h3>
