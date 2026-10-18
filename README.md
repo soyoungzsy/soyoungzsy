@@ -17,26 +17,26 @@
 
 ## 关于我
 
-**AI 实践建造者，现居中国杭州，在 Ant Group 从事产品运营。**
+**Soya · AI 实践建造者，探索非技术人的人机协作方法。**
 
 我致力于探索 AI 如何成为非技术人的工作与生活方法：AI如何帮助人增强判断、推动执行，并把有效经验沉淀为可复用的工具与系统。
 
 工作之外，我养了一只猫和一只狗，喜欢游泳和桨板等运动，也喜欢养植物。同时也在持续创造能为生活带来微小而美好的便利小产品。
 
-I'm an **AI Practice Builder** based in Hangzhou, China, working in Product Operations at Ant Group.
+I'm **Soya, an AI Practice Builder** exploring practical human–AI workflows for non-technical people.
 
 I explore how AI can become a practical method for non-technical people—helping us think more clearly, move work forward, and turn effective practices into reusable tools and systems.
 
 Outside work, I live with a cat and a dog, enjoy swimming and paddleboarding, and love caring for plants. I also build small products that bring a little more ease and delight to everyday life.
 
 如果你对我的开源项目有任何疑问，欢迎交流沟通，希望和更多“骄傲工作家”成为好朋友
-Questions about my open-source projects are always welcome: [soyoungzsy@foxmail.com](mailto:soyoungzsy@foxmail.com).
+Questions about the projects are welcome through their public repository Issues. Please share only sanitized information.
 
 ## What I explore in AI
 
 - **AI for non-technical work** — practical workflows for product operations, research, communication, and everyday decisions.
-- **Human–AI collaboration** — task routing, evidence boundaries, waiting states, and verifiable completion, reflected in [AI Co-brain Workflow](https://github.com/soyoungzsy/ai-cobrain-workflow).
-- **Knowledge that improves with use** — local-first systems that learn from decisions and feedback, reflected in [Self-enhancing Knowledge System](https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system).
+- **Human–AI collaboration** — deciding who takes the next step, when to revisit a task, and how to tell it is finished, reflected in [AI Co-brain Workflow](https://github.com/soyoungzsy/ai-cobrain-workflow).
+- **Knowledge that improves with use** — notes stored on your own device and improved with what you learn, reflected in [Self-enhancing Knowledge System](https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system).
 - **Small tools that change a real habit** — from immersive English reading with [SOYA LingoLens](https://github.com/soyoungzsy/soya-lingolens) to reflective decision-making with [SOYA Personal Board](https://github.com/soyoungzsy/soya).
 
 ## What I build
@@ -57,17 +57,17 @@ I call this the **SOYA AI LOOP**: a practical way to make AI part of the work it
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/ai-cobrain-workflow">AI Co-brain Workflow</a></h3>
-      <p>An installable skill for routing tasks across humans, AI, collaborators, waiting triggers, and verifiable completion.</p>
+      <p>A guide that helps you and AI decide what to do next, who should do it, and what counts as finished.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system">Self-enhancing Knowledge System</a></h3>
-      <p>A local-first system for evidence governance, AI collaboration, knowledge maintenance, and continuous learning.</p>
+      <p>A method for organizing notes, keeping their sources and using them to make your next decision.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/soya">SOYA Personal Board</a></h3>
-      <p>A private board of directors made of great minds—built for decisions, morning meetings, and long-term growth.</p>
+      <p>A way to ask AI to compare a personal choice from several perspectives and suggest next steps.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soyoungzsy/soya-lingolens">SOYA LingoLens</a></h3>
@@ -87,3 +87,4 @@ I share tools and methods that have survived real work—not just polished demos
 <p align="center">
   <em>Build with judgment. Finish with evidence. Preserve what compounds.</em>
 </p>
+
